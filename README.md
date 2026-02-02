@@ -45,6 +45,18 @@ I enjoy building clean systems, experimenting with ML ideas, and improving code 
 
 ---
 
+## 🚀 Featured Releases
+
+- **Aspect-Based Sentiment Recommendation System**
+  - Stable release: `v1.0.0`
+  - NLP-based aspect and sentiment analysis
+
+- **FastAPI Social Backend**
+  - Stable release: `v1.0.0`
+  - RESTful backend built with FastAPI
+
+---
+
 ## 📈 Current Focus
 
 - Improving ML model performance  
