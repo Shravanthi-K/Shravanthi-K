@@ -1,35 +1,35 @@
 # 👋 Hi there
 
 I’m interested in **Python, Machine Learning, NLP, and Backend Development**.
-I enjoy building clean systems, experimenting with ML ideas, and turning concepts into practical applications.
+I enjoy building practical systems, experimenting with ML ideas, and improving code quality through consistent learning.
 
 ---
 
 ## 🧠 About
 
-* Focused on **learning through projects**
-* Interested in **AI-powered applications**
-* Enjoys backend logic, APIs, and automation
-* Continuously improving problem-solving and development skills
-* Probably debugging something right now
+* Focused on learning through real projects
+* Interested in AI-driven and backend systems
+* Enjoys APIs, automation, and clean architecture
+* Continuously improving problem-solving skills
+* Usually building or debugging something
 
 ---
 
 ## 🚀 Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-4B5563?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B7280?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-52525B?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-475569?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-64748B?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-52525B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-71717A?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data-78716C?style=for-the-badge)
 
 ---
 
 ## 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-374151?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-4B5563?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-334155?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-475569?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-64748B?style=for-the-badge)
 
 ---
 
@@ -37,24 +37,24 @@ I enjoy building clean systems, experimenting with ML ideas, and turning concept
 
 ### Aspect-Based Sentiment Recommendation System
 
-NLP-based analysis of aspects and sentiments from text data.
+NLP-based analysis of aspects and sentiments from textual data.
 
 ### FastAPI Social Backend
 
-RESTful backend service with authentication and modular design.
+RESTful backend service with authentication and modular architecture.
 
 ### Python & ML Mini Projects
 
-Practice projects focused on machine learning, backend systems, and experimentation.
+Practice projects focused on backend systems and machine learning concepts.
 
 ---
 
 ## 🚀 Current Focus
 
 * Improving ML model performance
-* Writing cleaner and scalable backend code
+* Writing cleaner and modular backend code
 * Exploring deployment-ready APIs
-* Building projects that solve real problems
+* Building practical and scalable systems
 
 ---
 
